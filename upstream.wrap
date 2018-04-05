@@ -1,5 +1,5 @@
 [wrap-file]
-directory = catch-2.2.1
+directory = Catch2-2.2.1
 
 source_url = https://github.com/catchorg/Catch2/archive/v2.2.1.zip
 source_filename = Catch2-2.2.1.zip
